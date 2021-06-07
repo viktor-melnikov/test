@@ -1,5 +1,7 @@
 {
     "name": "viktor/test",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Viktor\\Test\\": "src/"
@@ -11,5 +13,8 @@
             "email": "vik.melnikov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.2.5",
+        "ext-json" : "*"
+    }
 }
