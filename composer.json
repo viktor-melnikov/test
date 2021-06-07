@@ -1,0 +1,15 @@
+{
+    "name": "viktor/test",
+    "autoload": {
+        "psr-4": {
+            "Viktor\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Viktor Melnikov",
+            "email": "vik.melnikov@gmail.com"
+        }
+    ],
+    "require": {}
+}
