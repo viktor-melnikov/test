@@ -18,6 +18,9 @@
         "ext-json" : "*",
         "barryvdh/laravel-ide-helper": "^2.10"
     },
+    "config": {
+        "sort-packages": true
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
