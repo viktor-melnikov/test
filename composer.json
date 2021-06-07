@@ -15,7 +15,8 @@
     ],
     "require": {
         "php": "^7.2.5",
-        "ext-json" : "*"
+        "ext-json" : "*",
+        "barryvdh/laravel-ide-helper": "^2.10"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
